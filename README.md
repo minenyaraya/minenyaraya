@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
+
 **minenyaraya/minenyaraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning WDD330
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: minenyaraya@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: It's incredible that it got here
--->
+
